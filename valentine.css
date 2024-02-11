@@ -22,13 +22,13 @@ img {
     max-width: 100%;
 }
 
-button {
+No {
     padding: 10px 20px;
     font-size: 16px;
     margin-top: 10px;
     cursor: pointer;
 }
 
-button.static {
+Yes.static {
     position: static;
 }
